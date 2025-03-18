@@ -8,8 +8,10 @@ If you haven't already initialized your project folder with Git, run this comman
 
 ```bash
 git init
-2. Create a GitHub Repository
-Go to GitHub and create a new repository.
+```
+
+# 2. Create a GitHub Repository
+Go to GitHub and create a new repository:
 
 Once the repository is created, you'll get the repository URL. For example:
 
